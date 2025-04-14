@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://localhost:27017/expense-tracker",
+    "jwtSecret": "Group_6_EXPTP",
+    "jwtExpiration": "5d"
+  }
+  
